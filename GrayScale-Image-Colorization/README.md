@@ -1,11 +1,5 @@
-<h1 align="center" style="border-bottom: none;"> <a href="https://lcsrg.me/deep-koalarization">🐨 deep koalarization</a>
+<h1 align="center" style="border-bottom: none;"> GrayScale Image Colorization</a>
 </h1>
-
-<p align="center">
-  <a href="https://github.com/baldassarreFe/deep-koalarization">
-    <img alt="Package version" src="https://img.shields.io/badge/koalarization-v0.2.0-blue.svg?style=for-the-badge&logo=python&logoColor=yellow">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.python.org/downloads/release/python-360/"><img alt="Python 3.6" src="https://img.shields.io/badge/python-3.6-blue.svg"></a>
