@@ -1,6 +1,5 @@
 <h1 align="center" style="border-bottom: none;"> <a href="https://lcsrg.me/deep-koalarization">🐨 deep koalarization</a>
 </h1>
-<h3 align="center">Impementation of our paper <a href="https://arxiv.org/abs/1712.03400">Deep Koalarization: Image Colorization using CNNs and Inception-ResNet-v2 (2017)</a></h3>
 
 <p align="center">
   <a href="https://github.com/baldassarreFe/deep-koalarization">
